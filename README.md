@@ -1,0 +1,1 @@
+To address the time-consuming process of Deferred Exam scheduling at the University of Manitoba, our project introduces an efficient algorithm to automate scheduling, reduce conflicts, and optimize resources, easing the burden on faculty.
